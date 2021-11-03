@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  background-color: #2B81AC;
+  font-family: 'Lucida Grande', 'Lucida Sans Unicode', sans-serif;
+  color: #ffffff;
+}
+
+.wrapper {
+  max-width: 1417px;
+  height: 915px;
+  margin: auto;
+  background-color: #3399CC;
+  margin-top: 23px;
+  font-family: 'Lucida Grande', 'Lucida Sans Unicode', sans-serif;
+  color: #ffffff;
+}
